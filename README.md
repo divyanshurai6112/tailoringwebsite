@@ -1,2 +1,2 @@
-# tailoringwebsite
-This is a front end development project developed by Divyanshu Rai and Kushal Verma.
+# tindog
+Front End-UI project for a dating website designed by Divyanshu Rai (therealmadridguy)
